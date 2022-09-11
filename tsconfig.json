@@ -1,0 +1,7 @@
+{
+  "compilerOptions":{
+    "target": "ES5", //js proto chi co class khong co func
+    "module": "CommonJS",
+    "outDir": "./js"
+  }
+}
